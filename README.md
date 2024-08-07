@@ -11,8 +11,8 @@ This is a simple project Transaction using the Gin framework.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/repository.git
-   cd repository
+   git clone https://github.com/apekking28/gin-trasaction-project.git
+   cd gin-trasaction-project
    ```
 
 2. Initialize Go modules and tidy dependencies:
