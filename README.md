@@ -24,7 +24,7 @@ This is a simple project Transaction using the Gin framework.
     go mod tidy
     ```
 
-4. Make sure configurasi for database connection at `account_manager/database/database.go` & `payment_manager/database/database.go`
+4. Make sure configuration for database connection at `account_manager/database/database.go` & `payment_manager/database/database.go`
 
 ## Running the Project
 
